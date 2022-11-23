@@ -9,8 +9,8 @@ The player can choose 'Hold', which means that his ROUND is added to the GLOBAL 
 The first player to reach 100 points on GLOBAL wins the game.
 [ ]‼️ Your Code will be structured 📁
  Doing TDD is not mandatory.⚠️
- The game must be available on a github-pages 🚀
- the resources will be available in the images folder
+ 
+ the resources will be available in the project folder
 resources :
 do LATO
 css-framework
