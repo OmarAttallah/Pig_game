@@ -13,9 +13,4 @@ The first player to reach 100 points on GLOBAL wins the game.
 resources :
 do LATO
 css-framework
-🚧 TODO 🚧:
-♻️ Fork the repo.
-↪️ Make a branch
-🔀 Make a PR on the Original repo.
-🏁 THE PROJECT IS TO BE DELIVERED 🏁
-'GOOD LUCK'
+
